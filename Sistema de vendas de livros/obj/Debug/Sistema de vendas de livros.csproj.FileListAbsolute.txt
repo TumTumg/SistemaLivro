@@ -1,0 +1,8 @@
+C:\Users\daniel.zlima1\source\repos\Sistema de vendas de livros\Sistema de vendas de livros\obj\Debug\Sistema de vendas de livros.csproj.AssemblyReference.cache
+C:\Users\daniel.zlima1\source\repos\Sistema de vendas de livros\Sistema de vendas de livros\obj\Debug\Sistema de vendas de livros.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniel.zlima1\source\repos\Sistema de vendas de livros\Sistema de vendas de livros\obj\Debug\Sistema de vendas de livros.csproj.CoreCompileInputs.cache
+C:\Users\daniel.zlima1\source\repos\Sistema de vendas de livros\Sistema de vendas de livros\bin\Debug\Sistema de vendas de livros.exe.config
+C:\Users\daniel.zlima1\source\repos\Sistema de vendas de livros\Sistema de vendas de livros\bin\Debug\Sistema de vendas de livros.exe
+C:\Users\daniel.zlima1\source\repos\Sistema de vendas de livros\Sistema de vendas de livros\bin\Debug\Sistema de vendas de livros.pdb
+C:\Users\daniel.zlima1\source\repos\Sistema de vendas de livros\Sistema de vendas de livros\obj\Debug\Sistema de vendas de livros.exe
+C:\Users\daniel.zlima1\source\repos\Sistema de vendas de livros\Sistema de vendas de livros\obj\Debug\Sistema de vendas de livros.pdb
